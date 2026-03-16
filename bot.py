@@ -2,8 +2,8 @@ import telebot
 import requests
 from telebot.types import ReplyKeyboardMarkup, KeyboardButton
 
-TOKEN = "YOUR_BOT_TOKEN"
-OWNER_ID = 123456789
+TOKEN = "8737098587:AAG4Co6DgYwrqEmZxogiTET2QMKyixO_wtU"
+OWNER_ID = 7634132457
 
 bot = telebot.TeleBot(TOKEN)
 
